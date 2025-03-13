@@ -21,4 +21,4 @@ A simple **Task Manager** application built with **React, TypeScript, and Tailwi
 ## 🔧 Installation
 1. Clone this repository:
    ```sh
-   git clone ##https://github.com/your-username/task-manager.git
+   git clone https://github.com/dayanalily/task-management.git
